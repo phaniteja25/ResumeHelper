@@ -1,5 +1,5 @@
 document.getElementById('interviewers').addEventListener('click', () => {
-    window.location.href = '\\Interviewers\\templates\\interviewer.html';      
+    window.location.href = '\\Interviewers\\app\\templates\\interviewer.html';      
                                                                                                    
 });
 

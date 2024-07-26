@@ -1,5 +1,5 @@
 document.getElementById('job-similarity').addEventListener('click', () => {
-    window.location.href = '\\Interviewers\\templates\\simlarity_checker.html';      
+    window.location.href = 'http://127.0.0.1:5000';      
 
 });
 
